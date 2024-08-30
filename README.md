@@ -83,3 +83,7 @@ The timer plays an SOS signal in Morse code using a buzzer when the countdown fi
 ## Future Enhancements
 
 - Debouncing the Buttons:Although there is a small delay to account for debounce, using hardware debouncing or more robust software debouncing could improve reliability.
+
+## Demo 
+
+https://github.com/user-attachments/assets/8c52758e-d985-4fc2-a4e5-7c50e0adf78a
